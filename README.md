@@ -9,6 +9,7 @@ There are three parts
 
 2.BayessearchCV
   The model parameters has been built in Bayesian search. You can get the program in the file of BayesSearch.
+  The Tradaboost.R2 has been changed base on "https://github.com/jay15summer/Two-stage-TrAdaboost.R2".
 
 3.Features & Predicted
   You can obtain the databases in Data/Data-norm.
